@@ -1,314 +1,403 @@
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--                    CHANNU PATIL — GITHUB PROFILE                   -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                  CHANNU PATIL — PREMIUM GITHUB PROFILE                -->
+<!--               Developer  ·  Entrepreneur  ·  Builder                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- ═══════ HERO BANNER ═══════ -->
 <img src="./assets/banner.svg" alt="Channu Patil — Developer · Entrepreneur · Builder" width="100%" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
+<!-- ═══════ TYPING ANIMATION ═══════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%9A%80+Building+the+future+through+code;%F0%9F%92%A1+Developer+%7C+Entrepreneur+%7C+Builder;%F0%9F%93%88+Improving+1%25+every+single+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%E2%9A%A1+Full-Stack+Developer+%26+AI+Enthusiast;%F0%9F%8F%97%EF%B8%8F+Building+Products+That+Solve+Real+Problems;%F0%9F%93%88+Improving+1%25+Every+Single+Day" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/channu-patil-a61526371/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_channu_patil_/?hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Channu0012)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=Channu0012&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+<!-- ═══════ SOCIAL BADGES (Modern flat style) ═══════ -->
+<a href="https://www.linkedin.com/in/channu-patil-a61526371/"><img src="https://img.shields.io/badge/-Channu_Patil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.instagram.com/_channu_patil_/?hl=en"><img src="https://img.shields.io/badge/-@__channu__patil__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+<a href="https://github.com/Channu0012"><img src="https://img.shields.io/badge/-Channu0012-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Channu0012&style=flat-square&color=60a5fa&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
-<!-- DIVIDER -->
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" alt="" width="100%" />
+<br/>
+
+<!-- ═══════ ABOUT ME ═══════ -->
+<img src="./assets/header-about.svg" alt="About Me" />
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
-
-```js
-const channu = {
-    name: "Channu Patil",
-    role: ["Developer", "Entrepreneur", "Builder"],
-    location: "India 🇮🇳",
-    currentFocus: "Building AI-powered products & SaaS platforms",
-    philosophy: "Learn every day. Build every day. Improve by 1% every day.",
-    funFact: "I read startup books for fun and debug code for peace 🧘‍♂️"
+```typescript
+const channu: Developer = {
+    name       : "Channu Patil",
+    roles      : ["Full-Stack Developer", "Entrepreneur", "Product Builder"],
+    location   : "India 🇮🇳",
+    focus      : "AI-Powered Products & SaaS Platforms",
+    languages  : ["JavaScript", "TypeScript", "Python", "Dart"],
+    philosophy : "Learn → Build → Ship → Iterate → Repeat",
+    goal       : "Create technology that makes people's lives easier",
 };
 ```
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="120" />
-
-- 🔭 &nbsp;Currently building **AI-powered applications** & **SaaS products**
-- 🌱 &nbsp;Deep diving into **AI/ML**, **Multi-Agent Systems** & **Cloud Architecture**
-- 🚀 &nbsp;Passionate about solving **real-world problems** with technology
-- 📚 &nbsp;Avid reader — *Atomic Habits, Zero to One, Clean Code*
-- 💡 &nbsp;Entrepreneur mindset — always looking for the next **big idea**
-- 🤝 &nbsp;Open to **collaborations** on innovative projects
-- ⚡ &nbsp;Daily habit: *Code → Learn → Build → Repeat*
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend & Mobile
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### ⚙️ Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🗄️ Database & Cloud
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🧠 AI & Automation
-
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4088?style=for-the-badge&logo=robot-framework&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### 🛠️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 FlowMind AI
-**Local Multi-Agent AI Orchestration Dashboard**
+**What I'm Working On**
 
-> A secure, offline-first multi-agent system with 6 AI agents (Planner, Researcher, Coder, Writer, Reviewer, Executor) running locally via Ollama
-
-**Tech Stack:**
-`Python` `FastAPI` `React` `CrewAI` `Ollama` `SQLModel` `WebSockets` `Zustand`
-
-**Highlights:**
-- 🔒 100% offline — runs on 16GB RAM
-- 🤖 Dual-model strategy (Llama 3.2 + Qwen 2.5)
-- 🛡️ AES-256 encrypted SQLite storage
-- 🎯 Manual confirmation shield for safety
-
-<a href="https://github.com/Channu0012">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="12" src="https://img.shields.io/badge/-%20-60a5fa?style=flat-square"/> &nbsp; Building **AI-powered multi-agent** systems  
+<img width="12" src="https://img.shields.io/badge/-%20-a78bfa?style=flat-square"/> &nbsp; Developing **full-stack SaaS** products  
+<img width="12" src="https://img.shields.io/badge/-%20-e879f9?style=flat-square"/> &nbsp; Exploring **LLMs, CrewAI** & AI automation  
+<img width="12" src="https://img.shields.io/badge/-%20-fb7185?style=flat-square"/> &nbsp; Cross-platform apps with **Flutter**  
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 StreamVerse
-**Full-Stack Movie Discovery Platform**
+**What Drives Me**
 
-> A feature-rich movie discovery platform with JWT auth, RESTful API, admin panel, SEO optimization, and multi-platform deployment
-
-**Tech Stack:**
-`Next.js` `Express.js` `PostgreSQL` `Firebase` `TailwindCSS` `JWT` `Vercel`
-
-**Highlights:**
-- 🎥 Complete movie discovery with genres & platforms
-- 🔐 JWT authentication & role-based access
-- 📊 Analytics tracking & SEO metadata
-- 🚀 Deployed on Vercel + Netlify + Render
-
-<a href="https://github.com/Channu0012">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-bc8cff?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📱 SkillVerse
-**Social Network Learning Application**
-
-> A Flutter-based social learning app with gamification, battles, leaderboards, real-time messaging, and Firebase backend
-
-**Tech Stack:**
-`Flutter` `Dart` `Firebase Auth` `Firestore` `Riverpod` `Isar` `Dio` `Lottie`
-
-**Highlights:**
-- 🏆 Gamified learning with battles & leaderboards
-- 💬 Real-time messaging & notifications
-- 🎨 Google Fonts + Lottie animations
-- 📱 Cross-platform (Android + Web)
-
-<a href="https://github.com/Channu0012">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-f778ba?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Affiliate Marketing Hub
-**SaaS Product Comparison Platform**
-
-> An Express.js + Firebase affiliate marketing hub with admin panel, analytics dashboard, click tracking, and SEO-optimized templates
-
-**Tech Stack:**
-`Node.js` `Express.js` `Firebase RTDB` `HTML5` `CSS3` `JavaScript`
-
-**Highlights:**
-- 📈 Real-time click & impression analytics
-- 🔄 Firebase Cloud ↔ Local JSON dual persistence
-- 🛒 Multi-platform affiliate link routing
-- 📧 Price drop alert subscription system
-
-<a href="https://github.com/Channu0012">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-ffa657?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="12" src="https://img.shields.io/badge/-%20-34d399?style=flat-square"/> &nbsp; Solving **real-world problems** with code  
+<img width="12" src="https://img.shields.io/badge/-%20-fbbf24?style=flat-square"/> &nbsp; Reading books on **startups & psychology**  
+<img width="12" src="https://img.shields.io/badge/-%20-f97316?style=flat-square"/> &nbsp; Shipping **MVPs fast**, iterating faster  
+<img width="12" src="https://img.shields.io/badge/-%20-60a5fa?style=flat-square"/> &nbsp; Compounding **1% daily** improvements  
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<img src="./assets/divider.svg" alt="" width="100%" />
+<br/>
+
+<!-- ═══════ TECH ARSENAL ═══════ -->
+<img src="./assets/header-tech.svg" alt="Tech Arsenal" />
+
+<br/>
+
+<div align="center">
+
+<!-- Frontend & Mobile -->
+<details open>
+<summary><b>&nbsp;&nbsp;Frontend & Mobile</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart&theme=dark" alt="Frontend Skills" /></a>
+</details>
+
+<!-- Backend & APIs -->
+<details open>
+<summary><b>&nbsp;&nbsp;Backend & APIs</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql&theme=dark" alt="Backend Skills" /></a>
+</details>
+
+<!-- Database & Cloud -->
+<details open>
+<summary><b>&nbsp;&nbsp;Database & Cloud</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=firebase,postgres,sqlite,mongodb,vercel,netlify,aws&theme=dark" alt="Database & Cloud" /></a>
+</details>
+
+<!-- AI & Tools -->
+<details open>
+<summary><b>&nbsp;&nbsp;AI, Automation & Tools</b></summary>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vite,docker,linux,figma&theme=dark" alt="Tools" /></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/CrewAI-FF4088?style=flat-square&logo=robot-framework&logoColor=white" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=meta&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets"/>
+</details>
+
 </div>
 
 <br/>
 
-<!-- ALSO WORKING ON -->
-<details>
-<summary><b>🔬 Other Projects & Ideas in Progress</b></summary>
+<!-- ═══════════════════════════════════════════════════════ -->
+<img src="./assets/divider.svg" alt="" width="100%" />
 <br/>
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🚌 **Bus Price Comparer** | SaaS for comparing bus ticket prices across platforms | 🔧 In Development |
-| 💬 **WhatsApp AI Agent** | AI-powered WhatsApp automation assistant | 🧪 Prototyping |
-| 🎯 **Interview Arena** | Learn, compete, win, and get placed — gamified interview prep | 🎨 UI Complete |
-| 📊 **Reels Counter** | Social media analytics tool | 📋 Planning |
-| 📅 **Day Tracker** | Personal productivity & habit tracker | 📋 Planning |
+<!-- ═══════ FEATURED PROJECTS ═══════ -->
+<img src="./assets/header-projects.svg" alt="Featured Projects" />
+
+<br/>
+
+<div align="center">
+
+<!-- PROJECT 1: FlowMind AI -->
+<a href="https://github.com/Channu0012">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Channu0012&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8" alt="FlowMind AI" />
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/-01-0d1117?style=flat-square&labelColor=60a5fa&color=0d1117" alt="01"/>
+&nbsp;FlowMind AI
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Multi_Agent-60a5fa?style=flat-square&labelColor=111827" alt="Category"/>
+</p>
+
+> **Local AI Orchestration Dashboard** — A secure, offline-first multi-agent system with 6 AI agents running locally via Ollama. Features dual-model strategy (Llama 3.2 + Qwen 2.5), AES-256 encryption, and a React dashboard.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/CrewAI-FF4088?style=flat-square&logo=robot-framework&logoColor=white" alt="CrewAI"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/✦_Offline_First-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+<img src="https://img.shields.io/badge/✦_AES_256_Encrypted-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+<img src="https://img.shields.io/badge/✦_16GB_RAM_Optimized-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/-02-0d1117?style=flat-square&labelColor=a78bfa&color=0d1117" alt="02"/>
+&nbsp;StreamVerse
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Full_Stack-Movie_Platform-a78bfa?style=flat-square&labelColor=111827" alt="Category"/>
+</p>
+
+> **Movie Discovery Platform** — Full-stack app with JWT auth, RESTful API, admin panel, SEO optimization, analytics tracking, and multi-platform deployment (Vercel + Netlify + Render).
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/✦_JWT_Authentication-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+<img src="https://img.shields.io/badge/✦_RESTful_API-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+<img src="https://img.shields.io/badge/✦_Multi_Platform_Deploy-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/-03-0d1117?style=flat-square&labelColor=e879f9&color=0d1117" alt="03"/>
+&nbsp;SkillVerse
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Mobile-Social_Learning-e879f9?style=flat-square&labelColor=111827" alt="Category"/>
+</p>
+
+> **Gamified Learning App** — Flutter-based social learning platform with skill battles, leaderboards, real-time messaging, Firebase backend, and beautiful Lottie animations.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Riverpod-00B0FF?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/✦_Gamified_Battles-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+<img src="https://img.shields.io/badge/✦_Real_Time_Chat-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+<img src="https://img.shields.io/badge/✦_Cross_Platform-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/-04-0d1117?style=flat-square&labelColor=34d399&color=0d1117" alt="04"/>
+&nbsp;Affiliate Marketing Hub
+</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SaaS-Analytics_Platform-34d399?style=flat-square&labelColor=111827" alt="Category"/>
+</p>
+
+> **Product Comparison SaaS** — Express.js affiliate marketing platform with admin panel, click/impression analytics, Firebase cloud sync, and SEO-optimized dynamic templates.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/✦_Real_Time_Analytics-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+<img src="https://img.shields.io/badge/✦_Dual_Persistence-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+<img src="https://img.shields.io/badge/✦_SEO_Optimized-0d1117?style=flat-square&labelColor=111827&color=1a1a2e" alt=""/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/▸-111827?style=flat-square"/>&nbsp;&nbsp;<b>More Projects in the Pipeline</b></summary>
+<br/>
+
+<div align="center">
+
+| &nbsp; | Project | Description | Tech | Status |
+|:---:|---------|-------------|------|:------:|
+| <img src="https://img.shields.io/badge/-%20-fbbf24?style=flat-square" width="8"/> | **Bus Price Comparer** | SaaS for comparing bus ticket prices across platforms | `Node.js` `APIs` | <img src="https://img.shields.io/badge/In_Dev-fbbf24?style=flat-square&labelColor=111827"/> |
+| <img src="https://img.shields.io/badge/-%20-60a5fa?style=flat-square" width="8"/> | **WhatsApp AI Agent** | AI-powered conversational automation assistant | `Python` `AI` | <img src="https://img.shields.io/badge/Proto-60a5fa?style=flat-square&labelColor=111827"/> |
+| <img src="https://img.shields.io/badge/-%20-e879f9?style=flat-square" width="8"/> | **Interview Arena** | Gamified interview prep — learn, compete, get placed | `HTML5` `CSS3` `JS` | <img src="https://img.shields.io/badge/UI_Done-e879f9?style=flat-square&labelColor=111827"/> |
+| <img src="https://img.shields.io/badge/-%20-34d399?style=flat-square" width="8"/> | **Reels Counter** | Social media analytics & engagement tracker | `React` `APIs` | <img src="https://img.shields.io/badge/Planning-34d399?style=flat-square&labelColor=111827"/> |
+| <img src="https://img.shields.io/badge/-%20-fb7185?style=flat-square" width="8"/> | **Day Tracker** | Personal productivity & daily habit tracker | `Flutter` | <img src="https://img.shields.io/badge/Planning-fb7185?style=flat-square&labelColor=111827"/> |
+
+</div>
 
 </details>
 
 <br/>
 
-<!-- DIVIDER -->
+<!-- ═══════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" alt="" width="100%" />
+<br/>
+
+<!-- ═══════ GITHUB ANALYTICS ═══════ -->
+<img src="./assets/header-stats.svg" alt="GitHub Analytics" />
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
-
 <div align="center">
 
-<!-- GITHUB STATS -->
+<!-- Stats + Languages side by side -->
 <a href="https://github.com/Channu0012">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="Channu's GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=c9d1d9&ring_color=60a5fa&include_all_commits=true&count_private=true&custom_title=Channu's+GitHub+Stats" alt="GitHub Stats" />
 </a>
-&nbsp;
+<img width="8"/>
 <a href="https://github.com/Channu0012">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<a href="https://github.com/Channu0012">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=bc8cff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=10&custom_title=Most+Used+Languages" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
+<!-- Streak Stats -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=58a6ff&line=bc8cff&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1a1a2e&ring=60a5fa&fire=e879f9&currStreakLabel=60a5fa&sideLabels=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/Channu0012">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=60a5fa&line=a78bfa&point=e879f9&area=true&area_color=60a5fa&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</a>
+
+<br/><br/>
+
+<!-- Trophies -->
+<a href="https://github.com/Channu0012">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Channu0012&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=-1" alt="Trophies" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
+<!-- ═══════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" alt="" width="100%" />
-
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" width="28" /> &nbsp;GitHub Trophies
+<!-- ═══════ PHILOSOPHY ═══════ -->
+<img src="./assets/header-philosophy.svg" alt="Philosophy" />
+
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/Channu0012">
-  <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Trophies" width="100%" />
-</a>
+<table>
+<tr>
+<td align="center" width="170">
 
-</div>
+<img src="https://img.shields.io/badge/-📖-0d1117?style=flat-square" width="40" height="40"/>
+
+**Learn**  
+*Every Day*
+
+<img src="https://img.shields.io/badge/-%20-60a5fa?style=flat-square" width="60" height="3"/>
+
+</td>
+<td align="center" width="30">
+
+`→`
+
+</td>
+<td align="center" width="170">
+
+<img src="https://img.shields.io/badge/-🔨-0d1117?style=flat-square" width="40" height="40"/>
+
+**Build**  
+*Every Day*
+
+<img src="https://img.shields.io/badge/-%20-a78bfa?style=flat-square" width="60" height="3"/>
+
+</td>
+<td align="center" width="30">
+
+`→`
+
+</td>
+<td align="center" width="170">
+
+<img src="https://img.shields.io/badge/-🚀-0d1117?style=flat-square" width="40" height="40"/>
+
+**Ship**  
+*Every Day*
+
+<img src="https://img.shields.io/badge/-%20-e879f9?style=flat-square" width="60" height="3"/>
+
+</td>
+<td align="center" width="30">
+
+`→`
+
+</td>
+<td align="center" width="170">
+
+<img src="https://img.shields.io/badge/-📈-0d1117?style=flat-square" width="40" height="40"/>
+
+**Improve**  
+*1% Daily*
+
+<img src="https://img.shields.io/badge/-%20-34d399?style=flat-square" width="60" height="3"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;My Philosophy
-
-<div align="center">
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    📖  Learn every day.                                      ║
-║    🔨  Build every day.                                      ║
-║    📈  Improve by 1% every day.                              ║
-║                                                              ║
-║    "The best way to predict the future is to create it."     ║
-║                                        — Abraham Lincoln     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+> *"The best way to predict the future is to create it."*
 
 <br/>
 
@@ -316,38 +405,38 @@ const channu = {
 <tr>
 <td align="center" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="48" />
+<img src="https://img.shields.io/badge/DEVELOPER-60a5fa?style=for-the-badge&labelColor=111827&color=0d1117" alt="Developer"/>
 
-**Developer**
-
-*Writing clean, scalable code that solves real problems*
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="48" />
-
-**Entrepreneur**
-
-*Building products people actually want to use*
+Writing clean, scalable  
+code that solves  
+**real problems**
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="48" />
+<img src="https://img.shields.io/badge/ENTREPRENEUR-a78bfa?style=for-the-badge&labelColor=111827&color=0d1117" alt="Entrepreneur"/>
 
-**Builder**
-
-*From idea to MVP to launched product*
+Building products  
+people actually  
+**want to use**
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="48" />
+<img src="https://img.shields.io/badge/BUILDER-e879f9?style=for-the-badge&labelColor=111827&color=0d1117" alt="Builder"/>
 
-**Lifelong Learner**
+From idea to MVP  
+to **launched**  
+**product**
 
-*1% better every day compounds to greatness*
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/LEARNER-34d399?style=for-the-badge&labelColor=111827&color=0d1117" alt="Learner"/>
+
+1% better every day  
+**compounds** to  
+**greatness**
 
 </td>
 </tr>
@@ -357,89 +446,62 @@ const channu = {
 
 <br/>
 
-<!-- DIVIDER -->
+<!-- ═══════════════════════════════════════════════════════ -->
 <img src="./assets/divider.svg" alt="" width="100%" />
-
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="28" /> &nbsp;Currently Reading
-
-<div align="center">
-
-| 📚 Book | ✍️ Author | 💡 Key Takeaway |
-|---------|-----------|-----------------|
-| *Atomic Habits* | James Clear | Small habits → remarkable results |
-| *Zero to One* | Peter Thiel | Build monopolies, not competition |
-| *Clean Code* | Robert C. Martin | Code is craft, treat it with respect |
-| *The Lean Startup* | Eric Ries | Build → Measure → Learn |
-| *The Psychology of Money* | Morgan Housel | Behavior > Intelligence in finance |
-
-</div>
+<!-- ═══════ CONNECT ═══════ -->
+<img src="./assets/header-connect.svg" alt="Let's Connect" />
 
 <br/>
-
-<!-- DIVIDER -->
-<img src="./assets/divider.svg" alt="" width="100%" />
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Let's Connect
 
 <div align="center">
 
 <br/>
 
-**💬 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.**
+**I'm always open to discussing new projects, creative ideas, or opportunities.**  
+**Let's build something that matters.**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/channu-patil-a61526371/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_channu_patil_/?hl=en)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Channu0012)
+<a href="https://www.linkedin.com/in/channu-patil-a61526371/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/_channu_patil_/?hl=en">
+  <img src="https://img.shields.io/badge/Instagram-Follow_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Channu0012">
+  <img src="https://img.shields.io/badge/GitHub-Follow_@Channu0012-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+---
 
 <br/>
 
-📧 **Reach out** — Let's build something amazing together!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,25:a78bfa,50:e879f9,75:fb7185,100:34d399&height=100&section=footer&fontSize=0" width="100%" />
 
 <br/>
+
+<sub>
+
+**⚡ Designed & crafted by [Channu Patil](https://github.com/Channu0012)**  
+*Building the future, one commit at a time.*
+
+</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made_with-Passion-60a5fa?style=flat-square&labelColor=111827" alt="Made with Passion"/>
+<img src="https://img.shields.io/badge/Open_Source-Always-34d399?style=flat-square&labelColor=111827" alt="Open Source"/>
+<img src="https://img.shields.io/badge/Thanks_for_visiting-🙌-a78bfa?style=flat-square&labelColor=111827" alt="Thanks"/>
 
 </div>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<img src="./assets/footer.svg" alt="" width="100%" />
-
-<div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer&fontSize=0" width="100%" />
-
-<br/>
-
-**⭐ From [Channu0012](https://github.com/Channu0012) — Building the future, one commit at a time.**
-
-*If you found my profile interesting, don't forget to give a ⭐!*
-
-![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-ff5722?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open_Source-💚-7ee787?style=flat-square)
-![Visitors](https://img.shields.io/badge/Thanks_for_visiting!-🙏-58a6ff?style=flat-square)
-
-</div>
-
-<!-- 
-    ╔══════════════════════════════════════════════════════════╗
-    ║                                                          ║
-    ║   Designed & built with 💜 by Channu Patil               ║
-    ║   "Building the future through code."                    ║
-    ║                                                          ║
-    ╚══════════════════════════════════════════════════════════╝
--->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    Built with 💜 by Channu Patil                      -->
+<!--                  "Building the future through code."                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->

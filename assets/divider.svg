@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="4" viewBox="0 0 800 4">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="3" viewBox="0 0 800 3">
   <defs>
-    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:0"/>
-      <stop offset="15%" style="stop-color:#58a6ff;stop-opacity:1"/>
-      <stop offset="50%" style="stop-color:#bc8cff;stop-opacity:1"/>
-      <stop offset="85%" style="stop-color:#f778ba;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#111827;stop-opacity:0"/>
+      <stop offset="10%" style="stop-color:#60a5fa;stop-opacity:0.6"/>
+      <stop offset="30%" style="stop-color:#a78bfa;stop-opacity:0.8"/>
+      <stop offset="50%" style="stop-color:#e879f9;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#a78bfa;stop-opacity:0.8"/>
+      <stop offset="90%" style="stop-color:#60a5fa;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#111827;stop-opacity:0"/>
     </linearGradient>
   </defs>
-  <rect width="800" height="2" y="1" rx="1" fill="url(#line-grad)"/>
+  <rect width="800" height="1.5" y="0.75" rx="0.75" fill="url(#g)"/>
 </svg>
