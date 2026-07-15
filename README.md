@@ -1,29 +1,29 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  CHANNU PATIL — GITHUB PROFILE v5                     -->
+<!--                  CHANNU PATIL — GITHUB PROFILE v6                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ═══════ HERO BANNER ═══════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1e1b4b,311042,0d1117&height=220&section=header&text=Channu%20Patil&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Developer%20%20%E2%80%A2%20%20Entrepreneur%20%20%E2%80%A2%20%20Builder&descSize=16&descColor=94a3b8&descAlignY=55" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117,1e1b4b,311042,0d1117&amp;height=220&amp;section=header&amp;text=Channu%20Patil&amp;fontSize=56&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Developer%20%20%E2%80%A2%20%20Entrepreneur%20%20%E2%80%A2%20%20Builder&amp;descSize=16&amp;descColor=94a3b8&amp;descAlignY=55" width="100%" alt="Header Banner"/>
 
 <br/>
 
 <!-- ═══════ TYPING ANIMATION ═══════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Building+the+future+through+code+%F0%9F%9A%80;Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Improving+1%25+every+single+day+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=550&amp;height=40&amp;lines=Building+the+future+through+code+%F0%9F%9A%80;Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Improving+1%25+every+single+day+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- ═══════ SOCIAL BADGES ═══════ -->
-<a href="https://www.linkedin.com/in/channu-patil-a61526371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/channu-patil-a61526371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/_channu_patil_/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.instagram.com/_channu_patil_/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/Channu0012"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Channu0012"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Channu0012&style=for-the-badge&color=60a5fa&label=VISITORS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Channu0012&amp;style=for-the-badge&amp;color=60a5fa&amp;label=VISITORS" alt="Profile Views"/>
 
 </div>
 
@@ -97,21 +97,25 @@ const channu = {
 
 ## 🚀 &nbsp; Featured Repositories
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Channu0012/FlowMind-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&amp;repo=FlowMind-AI&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=94a3b8&amp;border_color=1e293b" alt="FlowMind-AI" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Channu0012/nexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&amp;repo=nexus&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=94a3b8&amp;border_color=1e293b" alt="nexus" />
+  </a>
+</p>
 
-<!-- Standard Markdown syntax to prevent HTML ampersand parsing issues -->
-
-[![FlowMind-AI](https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b)](https://github.com/Channu0012/FlowMind-AI)
-&nbsp;&nbsp;
-[![nexus](https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b)](https://github.com/Channu0012/nexus)
-
-<br/><br/>
-
-[![Nexa.Boss](https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b)](https://github.com/Channu0012/Nexa.Boss)
-&nbsp;&nbsp;
-[![RENAME-PRO-BOT](https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b)](https://github.com/Channu0012/RENAME-PRO-BOT)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Channu0012/Nexa.Boss">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&amp;repo=Nexa.Boss&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=94a3b8&amp;border_color=1e293b" alt="Nexa.Boss" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&amp;repo=RENAME-PRO-BOT&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=94a3b8&amp;border_color=1e293b" alt="RENAME-PRO-BOT" />
+  </a>
+</p>
 
 <br/>
 
@@ -133,37 +137,37 @@ const channu = {
 
 ## 📊 &nbsp; GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Channu0012">
+    <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;border_color=1e293b&amp;include_all_commits=true&amp;count_private=true" alt="Overall GitHub Stats" height="195" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Channu0012">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;text_color=cbd5e1&amp;border_color=1e293b&amp;langs_count=8" alt="Top Languages" height="195" />
+  </a>
+</p>
 
-<!-- Overall stats card (Clean Markdown Link) -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&border_color=1e293b&include_all_commits=true&count_private=true)](https://github.com/Channu0012)
+<p align="center">
+  <a href="https://github.com/Channu0012">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&amp;theme=tokyonight&amp;hide_border=false&amp;background=0d1117&amp;border=1e293b&amp;ring=60a5fa&amp;fire=e879f9&amp;currStreakLabel=60a5fa" alt="Streak Stats" width="85%" />
+  </a>
+</p>
 
-<br/><br/>
-
-<!-- Top languages card (Clean Markdown Link) -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=60a5fa&text_color=cbd5e1&border_color=1e293b&langs_count=8)](https://github.com/Channu0012)
-
-<br/><br/>
-
-<!-- Streak stats card (Clean Markdown Link) -->
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=tokyonight&hide_border=false&background=0d1117&border=1e293b&ring=60a5fa&fire=e879f9&currStreakLabel=60a5fa)](https://github.com/Channu0012)
-
-<br/><br/>
-
-<!-- Activity graph card (Clean Markdown Link) -->
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=60a5fa&line=a78bfa&point=e879f9&area=true&area_color=60a5fa&hide_border=false&border_color=1e293b)](https://github.com/Channu0012)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Channu0012">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&amp;bg_color=0d1117&amp;color=60a5fa&amp;line=a78bfa&amp;point=e879f9&amp;area=true&amp;area_color=60a5fa&amp;hide_border=false&amp;border_color=1e293b" alt="Contribution Graph" width="95%" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 &nbsp; GitHub Trophies
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Channu0012&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=-1)](https://github.com/Channu0012)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Channu0012">
+    <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=-1" alt="Trophies" width="95%" />
+  </a>
+</p>
 
 ---
 
@@ -207,7 +211,7 @@ const channu = {
 </div>
 
 <!-- ═══════ FOOTER ═══════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1e1b4b,311042,0d1117&height=120&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117,1e1b4b,311042,0d1117&amp;height=120&amp;section=footer" width="100%" alt="Footer Wave"/>
 
 <div align="center">
 
