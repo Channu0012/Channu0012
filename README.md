@@ -1,29 +1,29 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  CHANNU PATIL — GITHUB PROFILE v3                     -->
+<!--                  CHANNU PATIL — GITHUB PROFILE v4                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ═══════ HERO BANNER — Capsule Render (guaranteed rendering) ═══════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=220&section=header&text=Channu%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Developer%20%20%E2%80%A2%20%20Entrepreneur%20%20%E2%80%A2%20%20Builder&descSize=18&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
+<!-- ═══════ HERO BANNER — Custom Minimal Sunset Gradient ═══════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0e15,30:111827,60:1e1b4b,90:311042,100:090d16&height=220&section=header&text=Channu%20Patil&fontSize=56&fontColor=f8fafc&fontAlignY=38&desc=Developer%20%20%E2%80%A2%20%20Entrepreneur%20%20%E2%80%A2%20%20Builder&descSize=16&descColor=94a3b8&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner"/>
 
 <br/>
 
 <!-- ═══════ TYPING ANIMATION ═══════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Building+the+future+through+code+%F0%9F%9A%80;Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Improving+1%25+every+single+day+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Building+the+future+through+code+%F0%9F%9A%80;Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Improving+1%25+every+single+day+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ═══════ SOCIAL LINKS ═══════ -->
-<a href="https://www.linkedin.com/in/channu-patil-a61526371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" height="28" width="4"/>
-<a href="https://www.instagram.com/_channu_patil_/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" height="28" width="4"/>
-<a href="https://github.com/Channu0012"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge" height="28" width="4"/>
-<img src="https://komarev.com/ghpvc/?username=Channu0012&style=for-the-badge&color=533483&label=VISITORS" alt="Profile Views"/>
+<!-- ═══════ SOCIAL BADGES ═══════ -->
+<a href="https://www.linkedin.com/in/channu-patil-a61526371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&color=0d1117" height="20" width="8"/>
+<a href="https://www.instagram.com/_channu_patil_/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&color=0d1117" height="20" width="8"/>
+<a href="https://github.com/Channu0012"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/%20-0d1117?style=flat-square&color=0d1117" height="20" width="8"/>
+<img src="https://komarev.com/ghpvc/?username=Channu0012&style=flat-square&color=311042&label=VISITORS" alt="Profile Views"/>
 
 </div>
 
@@ -33,12 +33,12 @@
 
 ## `> whoami` &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
 
-```js
+```typescript
 const channu = {
     name       : "Channu Patil",
     title      : "Full-Stack Developer & Entrepreneur",
     location   : "India 🇮🇳",
-    focus      : ["AI-Powered Products", "SaaS Platforms", "Mobile Apps"],
+    focus      : ["AI Automation", "Full-Stack Products", "SaaS Systems"],
     philosophy : "Learn → Build → Ship → Iterate → Repeat",
 };
 ```
@@ -60,136 +60,56 @@ const channu = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-<b>Frontend</b>
-</td>
-<td align="center" width="20%">
-<b>Backend</b>
-</td>
-<td align="center" width="20%">
-<b>Database & Cloud</b>
-</td>
-<td align="center" width="20%">
-<b>AI & Automation</b>
-</td>
-<td align="center" width="20%">
-<b>Tools</b>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" width="100" alt="Frontend"/></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="100" alt="Frontend2"/></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=tailwind,dart&perline=3&theme=dark" width="67" alt="Frontend3"/></a>
-</td>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" width="67" alt="Backend"/></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=express,fastapi&theme=dark" width="67" alt="Backend2"/></a>
-</td>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=firebase,postgres&theme=dark" width="67" alt="DB"/></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" width="67" alt="DB2"/></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" width="67" alt="Cloud"/></a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/CrewAI-FF4088?style=flat-square&logo=robot-framework&logoColor=white" alt="CrewAI"/><br/>
-<img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=meta&logoColor=white" alt="Ollama"/><br/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/><br/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WS"/>
-</td>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" width="67" alt="Tools"/></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode,vite&theme=dark" width="67" alt="Tools2"/></a>
-<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" width="67" alt="Tools3"/></a>
-</td>
-</tr>
-</table>
+| Area | Skills & Frameworks |
+| :--- | :--- |
+| **Frontend & Mobile** | <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,flutter,dart&theme=dark" alt="Frontend & Mobile"/></a> |
+| **Backend & APIs** | <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" alt="Backend & APIs"/></a> |
+| **Database & Cloud** | <a href="#"><img src="https://skillicons.dev/icons?i=firebase,postgres,sqlite,mongodb,vercel,netlify&theme=dark" alt="Database & Cloud"/></a> |
+| **AI & Automation** | `CrewAI` &nbsp;·&nbsp; `Ollama` &nbsp;·&nbsp; `Playwright` &nbsp;·&nbsp; `WebSockets` |
+| **Tools & DevOps** | <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,vite,docker,linux&theme=dark" alt="Tools & DevOps"/></a> |
 
 </div>
 
 ---
 
-## 🚀 &nbsp; Featured Projects
+## 🚀 &nbsp; Featured Public Repositories
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-<h3>🧠 FlowMind AI</h3>
+<!-- Pinned Repos displaying ACTUAL stars, forks, and language percentages -->
+<a href="https://github.com/Channu0012/FlowMind-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b" alt="FlowMind-AI" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Channu0012/nexus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b" alt="nexus" />
+</a>
 
-<sup><b>LOCAL AI ORCHESTRATION</b></sup>
+<br/><br/>
 
-Secure, offline-first multi-agent system with **6 AI agents** running locally via Ollama. Dual-model strategy (Llama 3.2 + Qwen 2.5) optimized for 16GB RAM.
+<a href="https://github.com/Channu0012/Nexa.Boss">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b" alt="Nexa.Boss" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Channu0012/RENAME-PRO-BOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b" alt="RENAME-PRO-BOT" />
+</a>
 
-`Python` `FastAPI` `React` `CrewAI` `SQLModel` `WebSockets`
+</div>
 
-**→** AES-256 encrypted · Offline-first · Manual safety shield
-
-</td>
-<td width="50%">
-
-<h3>🎬 StreamVerse</h3>
-
-<sup><b>FULL-STACK MOVIE PLATFORM</b></sup>
-
-Movie discovery platform with JWT authentication, RESTful API, admin panel, SEO optimization, and analytics tracking. Deployed on Vercel + Netlify.
-
-`Next.js` `Express` `PostgreSQL` `Firebase` `TailwindCSS`
-
-**→** JWT Auth · REST API · Multi-platform deploy
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3>📱 SkillVerse</h3>
-
-<sup><b>SOCIAL LEARNING APP</b></sup>
-
-Flutter-based gamified learning platform with skill battles, leaderboards, real-time messaging, and Firebase backend with Lottie animations.
-
-`Flutter` `Dart` `Firebase` `Riverpod` `Isar` `Lottie`
-
-**→** Gamified battles · Real-time chat · Cross-platform
-
-</td>
-<td width="50%">
-
-<h3>🛒 Affiliate Marketing Hub</h3>
-
-<sup><b>SAAS ANALYTICS PLATFORM</b></sup>
-
-Express.js affiliate platform with admin panel, click/impression analytics, Firebase cloud sync, and SEO-optimized dynamic templates.
-
-`Node.js` `Express` `Firebase RTDB` `JavaScript`
-
-**→** Real-time analytics · Dual persistence · SEO
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary>&nbsp; <b>🔬 More projects in the pipeline...</b></summary>
 <br/>
 
-| Project | Stack | Status |
-|:--------|:------|:------:|
-| 🚌 **Bus Price Comparer** — SaaS for comparing bus ticket prices | `Node.js` `APIs` | 🔧 Building |
-| 💬 **WhatsApp AI Agent** — AI-powered automation assistant | `Python` `AI` | 🧪 Prototype |
-| 🎯 **Interview Arena** — Gamified interview prep platform | `HTML` `CSS` `JS` | 🎨 UI Done |
-| 📊 **Reels Counter** — Social media analytics tool | `React` | 📋 Planning |
-| 📅 **Day Tracker** — Productivity & habit tracker | `Flutter` | 📋 Planning |
+<details>
+<summary>&nbsp; <b>🔬 Other Projects & SaaS Prototypes</b></summary>
+<br/>
+
+| Project | Stack | Description | Status |
+|:--------|:------|:------------|:------:|
+| 🚌 **Bus Price Comparer** | `Node.js` `APIs` | SaaS platform comparing bus ticket prices | 🔧 Building |
+| 💬 **WhatsApp AI Agent** | `Python` `AI` | AI-powered conversational automation assistant | 🧪 Prototype |
+| 🎯 **Interview Arena** | `HTML` `CSS` `JS` | Gamified interview preparation platform | 🎨 UI Done |
+| 🎬 **StreamVerse** | `Next.js` `Express` | Full-stack movie discovery platform | 🚀 Deployed |
+| 📱 **SkillVerse** | `Flutter` `Firebase` | Social network learning app | 📱 Local Testing |
 
 </details>
 
@@ -199,30 +119,47 @@ Express.js affiliate platform with admin panel, click/impression analytics, Fire
 
 <div align="center">
 
+<!-- Actual GitHub statistics for Channu0012 -->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Channu0012">
+        <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&border_color=1e293b&include_all_commits=true&count_private=true&custom_title=Overall+GitHub+Stats" alt="GitHub Stats" width="100%"/>
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Channu0012">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=60a5fa&text_color=cbd5e1&border_color=1e293b&langs_count=8" alt="Top Languages" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <a href="https://github.com/Channu0012">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=tokyonight&hide_border=false&background=0D1117&border=1e293b&ring=60a5fa&fire=e879f9&currStreakLabel=60a5fa" alt="Streak Stats" width="90%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Real GitHub Contribution Activity -->
 <a href="https://github.com/Channu0012">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=60a5fa&line=a78bfa&point=e879f9&area=true&area_color=60a5fa&hide_border=false&border_color=1e293b&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Channu0012">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8" alt="Languages"/>
-</a>
 
-<br/><br/>
+</div>
 
-<a href="https://github.com/Channu0012">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=tokyonight&hide_border=true&background=0D1117&ring=60a5fa&fire=e879f9&currStreakLabel=60a5fa" alt="Streak"/>
-</a>
+---
 
-<br/><br/>
+## 🏆 &nbsp; GitHub Trophies
+
+<div align="center">
 
 <a href="https://github.com/Channu0012">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=60a5fa&line=a78bfa&point=e879f9&area=true&area_color=60a5fa&hide_border=true" alt="Activity"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Channu0012">
-  <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="Trophies" width="95%"/>
 </a>
 
 </div>
@@ -290,18 +227,18 @@ Express.js affiliate platform with admin panel, click/impression analytics, Fire
 
 <br/>
 
-**Open to collaborations, new ideas, and building something amazing together.**
+**Open to collaborations, startup discussions, and building new tech.**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/channu-patil-a61526371/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/_channu_patil_/?hl=en">
   <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Channu0012">
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -311,10 +248,10 @@ Express.js affiliate platform with admin panel, click/impression analytics, Fire
 </div>
 
 <!-- ═══════ FOOTER ═══════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0e15,30:111827,60:1e1b4b,90:311042,100:090d16&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
 <div align="center">
 
-<sub>⭐ From <a href="https://github.com/Channu0012">Channu Patil</a> — Building the future, one commit at a time.</sub>
+<sub>⭐ Designed & crafted by [Channu Patil](https://github.com/Channu0012) — Building the future, one commit at a time.</sub>
 
 </div>
