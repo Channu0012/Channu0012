@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  CHANNU PATIL — GITHUB PROFILE v6                     -->
+<!--                  CHANNU PATIL — GITHUB PROFILE v7                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -58,64 +58,36 @@ const channu = {
 
 ## 🛠️ &nbsp; Tech Stack
 
-<div align="center">
+### 🎨 Frontend & Mobile
+* **Libraries & Frameworks:** React, Next.js, Flutter, TailwindCSS
+* **Languages & Core:** JavaScript, TypeScript, HTML5, CSS3, Dart
 
-### Frontend & Mobile
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
+### ⚙️ Backend & APIs
+* **Environments & Frameworks:** Node.js, Express, FastAPI
+* **Languages:** Python, JavaScript
 
-### Backend & APIs
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+### 🗄️ Database & Cloud
+* **Databases:** PostgreSQL, MongoDB, Firebase Realtime DB, SQLite
+* **Hosting Platforms:** Vercel, Netlify, Render
 
-### Database & Cloud
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
-
-### AI & DevOps Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-
-</div>
+### 🧠 AI & Automation
+* **Agents & Frameworks:** CrewAI, Ollama, LangChain, Playwright, WebSockets
 
 ---
 
 ## 🚀 &nbsp; Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/Channu0012/FlowMind-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&amp;repo=FlowMind-AI&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=94a3b8&amp;border_color=1e293b" alt="FlowMind-AI" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Channu0012/nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&amp;repo=nexus&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=94a3b8&amp;border_color=1e293b" alt="nexus" />
-  </a>
-</p>
+Here are the live repositories I am currently building and maintaining:
 
-<p align="center">
-  <a href="https://github.com/Channu0012/Nexa.Boss">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&amp;repo=Nexa.Boss&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=94a3b8&amp;border_color=1e293b" alt="Nexa.Boss" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&amp;repo=RENAME-PRO-BOT&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=94a3b8&amp;border_color=1e293b" alt="RENAME-PRO-BOT" />
-  </a>
-</p>
+[![FlowMind-AI](https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b)](https://github.com/Channu0012/FlowMind-AI)
+&nbsp;&nbsp;
+[![nexus](https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b)](https://github.com/Channu0012/nexus)
+
+<br/><br/>
+
+[![Nexa.Boss](https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b)](https://github.com/Channu0012/Nexa.Boss)
+&nbsp;&nbsp;
+[![RENAME-PRO-BOT](https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b)](https://github.com/Channu0012/RENAME-PRO-BOT)
 
 <br/>
 
@@ -137,68 +109,42 @@ const channu = {
 
 ## 📊 &nbsp; GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;icon_color=a78bfa&amp;text_color=cbd5e1&amp;border_color=1e293b&amp;include_all_commits=true&amp;count_private=true" alt="Overall GitHub Stats" height="195" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;bg_color=0d1117&amp;title_color=60a5fa&amp;text_color=cbd5e1&amp;border_color=1e293b&amp;langs_count=8" alt="Top Languages" height="195" />
-  </a>
-</p>
+Here are my live GitHub stats and language distribution:
 
-<p align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&amp;theme=tokyonight&amp;hide_border=false&amp;background=0d1117&amp;border=1e293b&amp;ring=60a5fa&amp;fire=e879f9&amp;currStreakLabel=60a5fa" alt="Streak Stats" width="85%" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&border_color=1e293b&include_all_commits=true&count_private=true)](https://github.com/Channu0012)
+&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=60a5fa&text_color=cbd5e1&border_color=1e293b&langs_count=8)](https://github.com/Channu0012)
 
-<p align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&amp;bg_color=0d1117&amp;color=60a5fa&amp;line=a78bfa&amp;point=e879f9&amp;area=true&amp;area_color=60a5fa&amp;hide_border=false&amp;border_color=1e293b" alt="Contribution Graph" width="95%" />
-  </a>
-</p>
+<br/><br/>
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=tokyonight&hide_border=false&background=0d1117&border=1e293b&ring=60a5fa&fire=e879f9&currStreakLabel=60a5fa)](https://github.com/Channu0012)
+
+<br/><br/>
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=60a5fa&line=a78bfa&point=e879f9&area=true&area_color=60a5fa&hide_border=false&border_color=1e293b)](https://github.com/Channu0012)
 
 ---
 
 ## 🏆 &nbsp; GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=-1" alt="Trophies" width="95%" />
-  </a>
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Channu0012&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=-1)](https://github.com/Channu0012)
 
 ---
 
 ## 💡 &nbsp; Philosophy
 
-<div align="center">
-
-<br/>
-
 > **Learn** every day. **Build** every day. **Improve** by 1% every day.
 
-<br/>
-
-| 01 | 02 | 03 | 04 |
-| :---: | :---: | :---: | :---: |
-| [![Developer](https://img.shields.io/badge/DEVELOPER-60a5fa?style=for-the-badge&labelColor=0d1117)](#) | [![Entrepreneur](https://img.shields.io/badge/ENTREPRENEUR-a78bfa?style=for-the-badge&labelColor=0d1117)](#) | [![Builder](https://img.shields.io/badge/BUILDER-e879f9?style=for-the-badge&labelColor=0d1117)](#) | [![Learner](https://img.shields.io/badge/LEARNER-34d399?style=for-the-badge&labelColor=0d1117)](#) |
-| Clean, scalable code<br/>that solves real problems | Building products people<br/>actually want to use | From idea to MVP<br/>to launched product | 1% better every day<br/>compounds to greatness |
-
-</div>
+* **Developer:** Writing clean, scalable code that solves real-world problems.
+* **Entrepreneur:** Building products that people actually want to use.
+* **Builder:** Taking ideas from MVP to fully launched software systems.
+* **Learner:** Daily 1% compounding adjustments leading to greatness.
 
 ---
 
 ## 🤝 &nbsp; Let's Connect
 
-<div align="center">
-
-<br/>
-
-**Open to collaborations, startup discussions, and building new tech.**
-
-<br/>
+Open to collaborations, startup discussions, and building new tech.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/channu-patil-a61526371/)
 &nbsp;&nbsp;
@@ -206,9 +152,7 @@ const channu = {
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Channu0012)
 
-<br/><br/>
-
-</div>
+<br/>
 
 <!-- ═══════ FOOTER ═══════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0d1117,1e1b4b,311042,0d1117&amp;height=120&amp;section=footer" width="100%" alt="Footer Wave"/>
