@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  CHANNU PATIL — GITHUB PROFILE v8                     -->
+<!--                  CHANNU PATIL — GITHUB PROFILE v9                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ═══════ HERO BANNER ═══════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1e1b4b,311042,0d1117&height=220&section=header&text=Channu%20Patil&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Developer%20%20%E2%80%A2%20%20Entrepreneur%20%20%E2%80%A2%20%20Builder&descSize=16&descColor=94a3b8&descAlignY=55" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Channu%20Patil&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Developer%20%20%E2%80%A2%20%20Entrepreneur%20%20%E2%80%A2%20%20Builder&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" alt="Header Banner"/>
 
 <br/>
 
 <!-- ═══════ TYPING ANIMATION ═══════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&repeat=true&width=550&height=40&lines=Building+the+future+through+code+%F0%9F%9A%80;Full-Stack+Developer+%26+AI+Enthusiast+%F0%9F%A4%96;Improving+1%25+every+single+day+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=600&height=45&lines=🚀+Building+the+future+through+code;🤖+Full-Stack+Developer+%26+AI+Enthusiast;📈+Improving+1%25+every+single+day;💡+Learn+→+Build+→+Ship+→+Repeat" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 &nbsp;&nbsp;
 <a href="https://github.com/Channu0012"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Channu0012&style=for-the-badge&color=60a5fa&label=VISITORS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Channu0012&style=for-the-badge&color=f97316&label=VISITORS" alt="Profile Views"/>
 
 </div>
 
@@ -94,69 +94,94 @@ const channu = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 <br/>
 
-> 🔥 **Live projects I'm actively building and shipping** — from AI agents to full-stack SaaS products
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=30&lines=🔥+Live+projects+actively+building+%26+shipping;🤖+From+AI+agents+to+full-stack+SaaS+products" alt="subtitle"/>
 
 <br/>
 
 </div>
 
+<!-- ── ROW 1 ── -->
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Channu0012/FlowMind-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&border_color=7c3aed&border_radius=12" alt="FlowMind-AI" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&border_color=f97316&border_radius=12&show_owner=true" alt="FlowMind-AI" />
       </a>
-      <br/><sub>🤖 <b>AI-Powered Mind Mapping</b></sub>
+      <br/>
+      <a href="https://github.com/Channu0012/FlowMind-AI">
+        <img src="https://img.shields.io/badge/🤖_AI--Powered_Mind_Mapping-View_Repo-f97316?style=for-the-badge&labelColor=0d1117" />
+      </a>
+      <br/><sub>Built with &nbsp;
+        <img src="https://skillicons.dev/icons?i=python,react&theme=dark" height="20"/>
+      </sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Channu0012/nexus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&border_color=7c3aed&border_radius=12" alt="nexus" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&border_color=a78bfa&border_radius=12&show_owner=true" alt="nexus" />
       </a>
-      <br/><sub>⚡ <b>Next-Gen Connectivity Hub</b></sub>
+      <br/>
+      <a href="https://github.com/Channu0012/nexus">
+        <img src="https://img.shields.io/badge/⚡_Next--Gen_Connectivity_Hub-View_Repo-a78bfa?style=for-the-badge&labelColor=0d1117" />
+      </a>
+      <br/><sub>Built with &nbsp;
+        <img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" height="20"/>
+      </sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Channu0012/Nexa.Boss">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=radical&bg_color=0d1117&title_color=60a5fa&icon_color=818cf8&text_color=e2e8f0&border_color=3b82f6&border_radius=12" alt="Nexa.Boss" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=radical&bg_color=0d1117&title_color=60a5fa&icon_color=818cf8&text_color=e2e8f0&border_color=60a5fa&border_radius=12&show_owner=true" alt="Nexa.Boss" />
       </a>
-      <br/><sub>👑 <b>SaaS Boss Dashboard</b></sub>
+      <br/>
+      <a href="https://github.com/Channu0012/Nexa.Boss">
+        <img src="https://img.shields.io/badge/👑_SaaS_Boss_Dashboard-View_Repo-60a5fa?style=for-the-badge&labelColor=0d1117" />
+      </a>
+      <br/><sub>Built with &nbsp;
+        <img src="https://skillicons.dev/icons?i=nextjs,firebase&theme=dark" height="20"/>
+      </sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=radical&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=e2e8f0&border_color=059669&border_radius=12" alt="RENAME-PRO-BOT" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=radical&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=e2e8f0&border_color=34d399&border_radius=12&show_owner=true" alt="RENAME-PRO-BOT" />
       </a>
-      <br/><sub>🤖 <b>Smart Renaming Automation Bot</b></sub>
+      <br/>
+      <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
+        <img src="https://img.shields.io/badge/🤖_Smart_Renaming_Bot-View_Repo-34d399?style=for-the-badge&labelColor=0d1117" />
+      </a>
+      <br/><sub>Built with &nbsp;
+        <img src="https://skillicons.dev/icons?i=python,docker&theme=dark" height="20"/>
+      </sub>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<details>
-<summary align="center">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🔬_OTHER_PROJECTS_&_SAAS_PROTOTYPES-Click_to_Expand-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Other Projects"/>
-</summary>
+<!-- ── OTHER PROJECTS TABLE (always visible, no expand needed) ── -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,12,6&height=4&section=header" width="80%"/>
 
 <br/>
 
-<div align="center">
+### 🔬 &nbsp; Other Projects & SaaS Prototypes
+
+<br/>
 
 | &nbsp; | Project | Stack | Description | Status |
 |:------:|:--------|:------|:------------|:------:|
-| 🚌 | **Bus Price Comparer** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![API](https://img.shields.io/badge/APIs-0ea5e9?style=flat-square) | SaaS platform for comparing bus ticket prices in real-time | 🔧 `Building` |
-| 💬 | **WhatsApp AI Agent** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-e879f9?style=flat-square) | AI-powered conversational automation assistant | 🧪 `Prototype` |
-| 🎯 | **Interview Arena** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Gamified interview preparation battle platform | 🎨 `UI Done` |
-| 🎬 | **StreamVerse** | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white) | Full-stack movie discovery & streaming platform | 🚀 `Deployed` |
-| 📱 | **SkillVerse** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Social network learning app for skill sharing | 📱 `Local Testing` |
+| 🚌 | [**Bus Price Comparer**](https://github.com/Channu0012) | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![API](https://img.shields.io/badge/APIs-0ea5e9?style=flat-square) | SaaS platform for comparing bus ticket prices in real-time | ![](https://img.shields.io/badge/🔧-Building-f97316?style=flat-square&labelColor=1a1a2e) |
+| 💬 | [**WhatsApp AI Agent**](https://github.com/Channu0012) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-e879f9?style=flat-square) | AI-powered conversational automation assistant | ![](https://img.shields.io/badge/🧪-Prototype-a78bfa?style=flat-square&labelColor=1a1a2e) |
+| 🎯 | [**Interview Arena**](https://github.com/Channu0012) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Gamified interview preparation battle platform | ![](https://img.shields.io/badge/🎨-UI_Done-60a5fa?style=flat-square&labelColor=1a1a2e) |
+| 🎬 | [**StreamVerse**](https://github.com/Channu0012) | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white) | Full-stack movie discovery & streaming platform | ![](https://img.shields.io/badge/🚀-Deployed-34d399?style=flat-square&labelColor=1a1a2e) |
+| 📱 | [**SkillVerse**](https://github.com/Channu0012) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Social network learning app for skill sharing | ![](https://img.shields.io/badge/📱-Testing-fb923c?style=flat-square&labelColor=1a1a2e) |
 
 </div>
-</details>
 
 ---
 
@@ -164,50 +189,65 @@ const channu = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,2,3&height=3&section=header" width="100%"/>
+<!-- Animated Section Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 <br/>
 
-> 📈 **Live stats, streaks & contributions** — every commit counts on the road to greatness
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=F97316&center=true&vCenter=true&width=700&height=35&lines=📊+Every+commit+is+a+step+closer+to+greatness;🔥+Consistency+beats+talent+every+single+day;⚡+Code+hard.+Ship+fast.+Learn+always." alt="analytics tagline"/>
 
 <br/>
 
-</div>
+<!-- ── STATS + LANGUAGES SIDE BY SIDE ── -->
+<a href="https://github.com/Channu0012">
+  <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true&border_radius=12&custom_title=⚡+Channu's+GitHub+Stats" alt="GitHub Stats" height="200"/>
+</a>
+&nbsp;
+<a href="https://github.com/Channu0012">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=12&custom_title=🧠+Top+Languages" alt="Top Languages" height="200"/>
+</a>
 
-<div align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true&border_radius=12" alt="Overall GitHub Stats" height="200" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=12" alt="Top Languages" height="200" />
-  </a>
-</div>
+<br/><br/>
+
+<!-- ── STREAK STATS ── -->
+<a href="https://github.com/Channu0012">
+  <img src="https://streak-stats.demolab.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=f97316&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" width="80%"/>
+</a>
+
+<br/><br/>
+
+<!-- ── CONTRIBUTION GRAPH ── -->
+<a href="https://github.com/Channu0012">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=🔥%20Channu%20Patil's%20Contribution%20Graph%20-%20Every%20day%20counts!" alt="Contribution Graph" width="95%"/>
+</a>
+
+<br/><br/>
+
+<!-- ── TROPHIES ── -->
+<a href="https://github.com/Channu0012">
+  <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies" width="95%"/>
+</a>
+
+<br/><br/>
+
+<!-- ── WAKATIME / CODING TIME STYLE BADGES ── -->
+<img src="https://img.shields.io/badge/⚡_Streak-Consistency_is_Key-f97316?style=for-the-badge&labelColor=0d1117&logo=fire&logoColor=f97316"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🧠_Private_Commits-Counted_Always-a78bfa?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀_Open_Source-Always_Shipping-34d399?style=for-the-badge&labelColor=0d1117&logo=rocketdotchat&logoColor=34d399"/>
+
+<br/><br/>
+
+<!-- ── ANIMATED SNAKE ── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=f97316&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="GitHub Streak" width="82%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Channu%20Patil's%20Contribution%20Graph" alt="Contribution Graph" width="95%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-Counting%20Every%20Day-7c3aed?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Code%20Quality-Clean%20%26%20Scalable-f97316?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-Always%20Shipping-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </div>
 
 ---
@@ -254,7 +294,7 @@ Open to collaborations, startup discussions, and building new tech.
 <br/>
 
 <!-- ═══════ FOOTER ═══════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1e1b4b,311042,0d1117&height=120&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
 <div align="center">
 
