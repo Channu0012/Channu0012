@@ -9,61 +9,6 @@
 
 </div>
 
-<!-- ══════ TYPING ANIMATION ══════ -->
-<div align="center">
-
-<a href="https://github.com/Channu0012">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=F97316&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=🚀+Building+AI-Powered+Products;🤖+Full-Stack+Dev+%26+Entrepreneur;💡+Learn+→+Build+→+Ship+→+Repeat;🔥+Turning+Ideas+Into+Reality" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<!-- ══════ STATUS BADGES ══════ -->
-<img src="https://img.shields.io/badge/🔥_Status-Open_to_Work-22c55e?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Location-India_🇮🇳-f97316?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_Focus-AI_%26_SaaS-a78bfa?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<!-- ══════ SOCIAL LINKS ══════ -->
-<a href="https://www.linkedin.com/in/channu-patil-a61526371/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/_channu_patil_/?hl=en">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="https://github.com/Channu0012">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Channu0012&style=for-the-badge&color=f97316&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br/><br/>
-
-<!-- ══════ QUICK STATS ROW ══════ -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2+-Years_Coding-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/10+-Projects_Built-f97316?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/∞-Cups_of_Coffee-34d399?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0d1117"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/1%25-Better_Every_Day-60a5fa?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=0d1117"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
