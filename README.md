@@ -58,90 +58,157 @@ const channu = {
 
 ## 🛠️ &nbsp; Tech Stack
 
-### 🎨 Frontend & Mobile
-* **Libraries & Frameworks:** React, Next.js, Flutter, TailwindCSS
-* **Languages & Core:** JavaScript, TypeScript, HTML5, CSS3, Dart
+<div align="center">
 
-### ⚙️ Backend & APIs
-* **Environments & Frameworks:** Node.js, Express, FastAPI
-* **Languages:** Python, JavaScript
+<br/>
 
-### 🗄️ Database & Cloud
-* **Databases:** PostgreSQL, MongoDB, Firebase Realtime DB, SQLite
-* **Hosting Platforms:** Vercel, Netlify, Render
+**🎨 Languages & Frontend**
 
-### 🧠 AI & Automation
-* **Agents & Frameworks:** CrewAI, Ollama, LangChain, Playwright, WebSockets
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,flutter,dart&theme=dark&perline=9)](https://skillicons.dev)
+
+<br/>
+
+**⚙️ Backend & APIs**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark&perline=9)](https://skillicons.dev)
+
+<br/>
+
+**🗄️ Database & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,sqlite,vercel,netlify&theme=dark&perline=9)](https://skillicons.dev)
+
+<br/>
+
+**🧠 AI & Dev Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma&theme=dark&perline=9)](https://skillicons.dev)
+
+<br/>
+
+</div>
 
 ---
 
 ## 🚀 &nbsp; Featured Repositories
 
-Here are the live repositories I am currently building and maintaining:
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Channu0012/FlowMind-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b" alt="FlowMind-AI" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Channu0012/nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b" alt="nexus" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Channu0012/Nexa.Boss">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b" alt="Nexa.Boss" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=tokyonight&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8&border_color=1e293b" alt="RENAME-PRO-BOT" />
-  </a>
-</p>
+<br/>
+
+> 🔥 **Live projects I'm actively building and shipping** — from AI agents to full-stack SaaS products
+
+<br/>
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Channu0012/FlowMind-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&border_color=7c3aed&border_radius=12" alt="FlowMind-AI" />
+      </a>
+      <br/><sub>🤖 <b>AI-Powered Mind Mapping</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Channu0012/nexus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&border_color=7c3aed&border_radius=12" alt="nexus" />
+      </a>
+      <br/><sub>⚡ <b>Next-Gen Connectivity Hub</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Channu0012/Nexa.Boss">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=radical&bg_color=0d1117&title_color=60a5fa&icon_color=818cf8&text_color=e2e8f0&border_color=3b82f6&border_radius=12" alt="Nexa.Boss" />
+      </a>
+      <br/><sub>👑 <b>SaaS Boss Dashboard</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=radical&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=e2e8f0&border_color=059669&border_radius=12" alt="RENAME-PRO-BOT" />
+      </a>
+      <br/><sub>🤖 <b>Smart Renaming Automation Bot</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <details>
-<summary>&nbsp; <b>🔬 Other Projects & SaaS Prototypes</b></summary>
+<summary align="center">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🔬_OTHER_PROJECTS_&_SAAS_PROTOTYPES-Click_to_Expand-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Other Projects"/>
+</summary>
+
 <br/>
 
-| Project | Stack | Description | Status |
-|:--------|:------|:------------|:------:|
-| 🚌 **Bus Price Comparer** | `Node.js` `APIs` | SaaS platform comparing bus ticket prices | 🔧 Building |
-| 💬 **WhatsApp AI Agent** | `Python` `AI` | AI-powered conversational automation assistant | 🧪 Prototype |
-| 🎯 **Interview Arena** | `HTML` `CSS` `JS` | Gamified interview preparation platform | 🎨 UI Done |
-| 🎬 **StreamVerse** | `Next.js` `Express` | Full-stack movie discovery platform | 🚀 Deployed |
-| 📱 **SkillVerse** | `Flutter` `Firebase` | Social network learning app | 📱 Local Testing |
+<div align="center">
 
+| &nbsp; | Project | Stack | Description | Status |
+|:------:|:--------|:------|:------------|:------:|
+| 🚌 | **Bus Price Comparer** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![API](https://img.shields.io/badge/APIs-0ea5e9?style=flat-square) | SaaS platform for comparing bus ticket prices in real-time | 🔧 `Building` |
+| 💬 | **WhatsApp AI Agent** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-e879f9?style=flat-square) | AI-powered conversational automation assistant | 🧪 `Prototype` |
+| 🎯 | **Interview Arena** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Gamified interview preparation battle platform | 🎨 `UI Done` |
+| 🎬 | **StreamVerse** | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white) | Full-stack movie discovery & streaming platform | 🚀 `Deployed` |
+| 📱 | **SkillVerse** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Social network learning app for skill sharing | 📱 `Local Testing` |
+
+</div>
 </details>
 
 ---
 
 ## 📊 &nbsp; GitHub Analytics
 
-Here are my live GitHub stats and language distribution:
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&border_color=1e293b&include_all_commits=true&count_private=true" alt="Overall GitHub Stats" height="195" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=60a5fa&text_color=cbd5e1&border_color=1e293b&langs_count=8" alt="Top Languages" height="195" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,2,3&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=tokyonight&hide_border=false&background=0d1117&border=1e293b&ring=60a5fa&fire=e879f9&currStreakLabel=60a5fa" alt="Streak Stats" width="85%" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
+> 📈 **Live stats, streaks & contributions** — every commit counts on the road to greatness
+
+<br/>
+
+</div>
+
+<div align="center">
   <a href="https://github.com/Channu0012">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=60a5fa&line=a78bfa&point=e879f9&area=true&area_color=60a5fa&hide_border=false&border_color=1e293b" alt="Contribution Graph" width="95%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true&border_radius=12" alt="Overall GitHub Stats" height="200" />
   </a>
-</p>
+  &nbsp;
+  <a href="https://github.com/Channu0012">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=12" alt="Top Languages" height="200" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Channu0012">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=f97316&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="GitHub Streak" width="82%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Channu0012">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=12&custom_title=Channu%20Patil's%20Contribution%20Graph" alt="Contribution Graph" width="95%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-Counting%20Every%20Day-7c3aed?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Code%20Quality-Clean%20%26%20Scalable-f97316?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-Always%20Shipping-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</div>
 
 ---
 
