@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ══════ HERO BANNER ══════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Channu%20Patil&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Developer%20·%20Entrepreneur%20·%20Builder&descSize=20&descColor=e2e8f0&descAlignY=62&animation=twinkling" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Channu%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20Entrepreneur%20%C2%B7%20Builder&descSize=18&descColor=cbd5e1&descAlignY=58" width="100%" alt="Header Banner"/>
 
 </div>
 
@@ -335,7 +335,7 @@ const channu: Developer = {
 <!-- ══════ FOOTER ══════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&text=Keep+Building+🚀&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer"/>
 
 <br/>
 
