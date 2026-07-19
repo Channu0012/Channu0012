@@ -1,5 +1,5 @@
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--             CHANNU PATIL — GITHUB PROFILE v10            -->
+<!--             CHANNU PATIL — GITHUB PROFILE v16            -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=30&lines=🚀+Building+AI-Powered+SaaS+%7C+LLMs+%7C+Multi-Agent+Systems;💡+From+Idea+→+MVP+→+Shipped+Product+in+Record+Time;🔥+Code+every+day.+Ship+every+week.+Learn+forever." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=30&lines=🚀+Building+AI-Powered+SaaS+%7C+LLMs+%7C+Multi-Agent+Systems;💡+From+Idea+→+MVP+→+Shipped+Product+in+Record+Time;🔥+Code+every+day.+Ship+every+week.+Learn+forever." alt="Typing SVG"/>
 
 </div>
 
@@ -93,33 +93,92 @@ const channu: Developer = {
 
 ---
 
-## 🚀 &nbsp; Featured Repositories
+## 🚀 &nbsp; Featured Projects
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=26&lines=🔥+Actively+building+%26+shipping+every+single+day" alt="projects subtitle"/>
+
+<br/><br/>
+
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f97316?style=flat-square&labelColor=f97316" width="90%"/>
+      <br/><br/>
+      <h3>🤖 FlowMind AI</h3>
+      <p><i>AI-Powered Mind Mapping & Flow Automation</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
       <a href="https://github.com/Channu0012/FlowMind-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&border_color=f97316&border_radius=12&show_owner=true" alt="FlowMind-AI"/>
+        <img src="https://img.shields.io/badge/View_Project_→-f97316?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-f97316?style=flat-square&labelColor=f97316" width="90%"/>
+      <br/>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-a78bfa?style=flat-square&labelColor=a78bfa" width="90%"/>
+      <br/><br/>
+      <h3>⚡ Nexus</h3>
+      <p><i>Real-Time Connectivity & Messaging Hub</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white"/>
+      </p>
       <a href="https://github.com/Channu0012/nexus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&border_color=a78bfa&border_radius=12&show_owner=true" alt="nexus"/>
+        <img src="https://img.shields.io/badge/View_Project_→-a78bfa?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-a78bfa?style=flat-square&labelColor=a78bfa" width="90%"/>
+      <br/>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-60a5fa?style=flat-square&labelColor=60a5fa" width="90%"/>
+      <br/><br/>
+      <h3>👑 Nexa Boss</h3>
+      <p><i>Full-Stack SaaS Dashboard & CRM Platform</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
       <a href="https://github.com/Channu0012/Nexa.Boss">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=radical&bg_color=0d1117&title_color=60a5fa&icon_color=818cf8&text_color=e2e8f0&border_color=60a5fa&border_radius=12&show_owner=true" alt="Nexa.Boss"/>
+        <img src="https://img.shields.io/badge/View_Project_→-60a5fa?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-60a5fa?style=flat-square&labelColor=60a5fa" width="90%"/>
+      <br/>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-34d399?style=flat-square&labelColor=34d399" width="90%"/>
+      <br/><br/>
+      <h3>🤖 Rename Pro Bot</h3>
+      <p><i>Smart File Automation & Renaming Bot</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+      </p>
       <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=radical&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=e2e8f0&border_color=34d399&border_radius=12&show_owner=true" alt="RENAME-PRO-BOT"/>
+        <img src="https://img.shields.io/badge/View_Project_→-34d399?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-34d399?style=flat-square&labelColor=34d399" width="90%"/>
+      <br/>
     </td>
   </tr>
 </table>
@@ -152,65 +211,48 @@ const channu: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=800&color=F97316&center=true&vCenter=true&width=800&height=34&lines=📊+Every+commit+is+a+step+closer+to+greatness+🚀;🔥+Consistency+beats+talent+every+single+day+💪;⚡+Code+hard.+Ship+fast.+Learn+always.+♾️;🌟+Building+in+public+—+one+push+at+a+time+🛠️;💡+Great+code+ships+great+products.+Period." alt="analytics tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=800&color=F97316&center=true&vCenter=true&width=780&height=30&lines=📊+Every+commit+is+a+step+closer+to+greatness;🔥+Consistency+beats+talent+every+single+day;⚡+Code+hard.+Ship+fast.+Learn+always." alt="analytics tagline"/>
 
 <br/><br/>
 
-<!-- ══════ ROW 1: STATS + LANGUAGES + STREAK ══════ -->
+<!-- ══════ STREAK ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true&border_radius=12&custom_title=⚡+Channu's+GitHub+Stats&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" height="200"/>
-</a>&nbsp;
-<a href="https://github.com/Channu0012">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=12&custom_title=🧠+Language+Breakdown&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12&card_width=860&card_height=200&stroke=0d1117" alt="GitHub Streak" width="88%"/>
 </a>
 
 <br/><br/>
 
-<!-- ══════ ROW 2: STREAK (FULL WIDTH) ══════ -->
-<a href="https://github.com/Channu0012">
-  <img src="https://streak-stats.demolab.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12&card_width=860&card_height=210&stroke=0d1117&exclude_days=Sun" alt="GitHub Streak" width="88%"/>
-</a>
-
-<br/><br/>
-
-<!-- ══════ ROW 3: PROFILE SUMMARY CARD ══════ -->
+<!-- ══════ PROFILE SUMMARY (full width) ══════ -->
 <a href="https://github.com/Channu0012">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Channu0012&theme=radical" alt="Profile Summary" width="95%"/>
 </a>
 
 <br/><br/>
 
-<!-- ══════ ROW 4: MINI SUMMARY CARDS ══════ -->
+<!-- ══════ MINI CARDS ROW ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Channu0012&theme=radical" alt="Repos per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Channu0012&theme=radical" alt="Repos per Language" height="175"/>
 </a>&nbsp;
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Channu0012&theme=radical" alt="Most Commit Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Channu0012&theme=radical" alt="Most Commit Language" height="175"/>
 </a>&nbsp;
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Channu0012&theme=radical" alt="Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Channu0012&theme=radical" alt="Stats" height="175"/>
 </a>&nbsp;
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Channu0012&theme=radical&utcOffset=5.5" alt="Productive Time" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Channu0012&theme=radical&utcOffset=5.5" alt="Productive Time" height="175"/>
 </a>
 
 <br/><br/>
 
-<!-- ══════ ROW 5: CONTRIBUTION GRAPH ══════ -->
+<!-- ══════ CONTRIBUTION GRAPH ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=3b0764&hide_border=true&radius=12&custom_title=🔥+Channu+Patil's+Contribution+Heatmap+%7C+Building+Every+Day" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=3b0764&hide_border=true&radius=12&custom_title=🔥+Channu+Patil's+Contribution+Heatmap" alt="Contribution Graph" width="95%"/>
 </a>
 
 <br/><br/>
 
-<!-- ══════ ROW 6: TROPHIES (8 COLUMNS) ══════ -->
-<a href="https://github.com/Channu0012">
-  <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=8" alt="GitHub Trophies" width="95%"/>
-</a>
-
-<br/><br/>
-
-<!-- ══════ ROW 7: SNAKE ANIMATION ══════ -->
+<!-- ══════ SNAKE ANIMATION ══════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake.svg"/>
@@ -219,7 +261,7 @@ const channu: Developer = {
 
 <br/><br/>
 
-<!-- ══════ STAT ACHIEVEMENT BADGES ══════ -->
+<!-- ══════ ACHIEVEMENT BADGES ══════ -->
 <img src="https://img.shields.io/badge/⚡_Streak-Consistency_is_🔑-f97316?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🔒_Private_Commits-Always_Counted-a78bfa?style=for-the-badge&labelColor=0d1117"/>
@@ -227,11 +269,6 @@ const channu: Developer = {
 <img src="https://img.shields.io/badge/🚀_Open_Source-Always_Shipping-34d399?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📈_Growth-1%25_Better_Every_Day-60a5fa?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<!-- ══════ GITHUB METRICS CARD ══════ -->
-<img src="https://img.shields.io/badge/📊_GitHub_Metrics-Live_&_Updated_Daily-e879f9?style=for-the-badge&labelColor=0d1117"/>
 
 <br/><br/>
 
