@@ -32,6 +32,12 @@
 
 ## 🧑‍💻 &nbsp; About Me
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Channu0012/Channu0012/main/assets/about_banner.png" width="100%" alt="About Channu Patil"/>
+</div>
+
+<br/>
+
 ```typescript
 const channu: Developer = {
     name       : "Channu Patil",
@@ -45,7 +51,7 @@ const channu: Developer = {
 };
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+<img align="right" src="https://raw.githubusercontent.com/Channu0012/Channu0012/main/assets/currently_building.png" width="360" alt="currently building"/>
 
 - 🔭 &nbsp; Currently building **AI-powered SaaS products**
 - 🧠 &nbsp; Exploring **Multi-Agent AI**, **LLMs** & **RAG Systems**
@@ -60,6 +66,12 @@ const channu: Developer = {
 ---
 
 ## 🛠️ &nbsp; Tech Stack
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Channu0012/Channu0012/main/assets/tech_stack_banner.png" width="100%" alt="Tech Stack Banner"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -94,6 +106,12 @@ const channu: Developer = {
 ---
 
 ## 🚀 &nbsp; Featured Repositories
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Channu0012/Channu0012/main/assets/projects_banner.png" width="100%" alt="Featured Projects Banner"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -274,6 +292,12 @@ const channu: Developer = {
 ## 💡 &nbsp; Philosophy
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Channu0012/Channu0012/main/assets/philosophy_banner.png" width="100%" alt="Philosophy Banner"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 
@@ -293,6 +317,12 @@ const channu: Developer = {
 ---
 
 ## 🤝 &nbsp; Let's Connect & Build Together
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Channu0012/Channu0012/main/assets/connect_banner.png" width="100%" alt="Connect Banner"/>
+</div>
+
+<br/>
 
 <div align="center">
 
