@@ -5,7 +5,22 @@
 <div align="center">
 
 <!-- ══════ HERO BANNER ══════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Channu%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20Entrepreneur%20%C2%B7%20Builder&descSize=18&descColor=cbd5e1&descAlignY=58" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Channu%20Patil&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Entrepreneur&descSize=20&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner"/>
+
+<!-- ══════ PROFILE BADGES ROW ══════ -->
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Channu0012&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/Channu0012)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Channu0012?style=for-the-badge&color=f97316&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/Channu0012?tab=followers)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/Channu0012?style=for-the-badge&color=a78bfa&logo=github&logoColor=white&label=TOTAL+STARS&affiliations=OWNER)](https://github.com/Channu0012)
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=750&height=30&lines=🚀+Building+AI-Powered+SaaS+%7C+LLMs+%7C+Multi-Agent+Systems;💡+From+Idea+→+MVP+→+Shipped+Product+in+Record+Time;🔥+Code+every+day.+Ship+every+week.+Learn+forever." alt="Typing SVG"/>
 
 </div>
 
@@ -169,56 +184,88 @@ const channu: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=800&color=F97316&center=true&vCenter=true&width=720&height=32&lines=📊+Every+commit+is+a+step+closer+to+greatness+🚀;🔥+Consistency+beats+talent+every+single+day+💪;⚡+Code+hard.+Ship+fast.+Learn+always.+♾️" alt="analytics tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=800&color=F97316&center=true&vCenter=true&width=800&height=34&lines=📊+Every+commit+is+a+step+closer+to+greatness+🚀;🔥+Consistency+beats+talent+every+single+day+💪;⚡+Code+hard.+Ship+fast.+Learn+always.+♾️;🌟+Building+in+public+—+one+push+at+a+time+🛠️;💡+Great+code+ships+great+products.+Period." alt="analytics tagline"/>
 
 <br/><br/>
 
-<!-- STATS + LANGUAGES -->
+<!-- ══════ ROW 1: STATS + LANGUAGES + STREAK ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true&border_radius=12&custom_title=⚡+Channu's+GitHub+Stats&show=reviews,discussions_started" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Channu0012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&ring_color=7c3aed&include_all_commits=true&count_private=true&border_radius=12&custom_title=⚡+Channu's+GitHub+Stats&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" height="200"/>
 </a>&nbsp;
 <a href="https://github.com/Channu0012">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=12&custom_title=🧠+Languages" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Channu0012&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=8&border_radius=12&custom_title=🧠+Language+Breakdown&size_weight=0.5&count_weight=0.5" alt="Top Languages" height="200"/>
 </a>
 
 <br/><br/>
 
-<!-- STREAK -->
+<!-- ══════ ROW 2: STREAK (FULL WIDTH) ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://streak-stats.demolab.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12&card_width=800&card_height=200&stroke=0d1117" alt="GitHub Streak" width="84%"/>
+  <img src="https://streak-stats.demolab.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12&card_width=860&card_height=210&stroke=0d1117&exclude_days=Sun" alt="GitHub Streak" width="88%"/>
 </a>
 
 <br/><br/>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ══════ ROW 3: PROFILE SUMMARY CARD ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=3b0764&hide_border=true&radius=12&custom_title=🔥%20Channu%20Patil's%20Contribution%20Heatmap" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Channu0012&theme=radical" alt="Profile Summary" width="95%"/>
 </a>
 
 <br/><br/>
 
-<!-- TROPHIES -->
+<!-- ══════ ROW 4: MINI SUMMARY CARDS ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Channu0012&theme=radical" alt="Repos per Language" height="180"/>
+</a>&nbsp;
+<a href="https://github.com/Channu0012">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Channu0012&theme=radical" alt="Most Commit Language" height="180"/>
+</a>&nbsp;
+<a href="https://github.com/Channu0012">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Channu0012&theme=radical" alt="Stats" height="180"/>
+</a>&nbsp;
+<a href="https://github.com/Channu0012">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Channu0012&theme=radical&utcOffset=5.5" alt="Productive Time" height="180"/>
 </a>
 
 <br/><br/>
 
-<!-- NEON STATUS BADGES -->
+<!-- ══════ ROW 5: CONTRIBUTION GRAPH ══════ -->
+<a href="https://github.com/Channu0012">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=3b0764&hide_border=true&radius=12&custom_title=🔥+Channu+Patil's+Contribution+Heatmap+%7C+Building+Every+Day" alt="Contribution Graph" width="95%"/>
+</a>
+
+<br/><br/>
+
+<!-- ══════ ROW 6: TROPHIES (8 COLUMNS) ══════ -->
+<a href="https://github.com/Channu0012">
+  <img src="https://github-profile-trophy.vercel.app/?username=Channu0012&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=8" alt="GitHub Trophies" width="95%"/>
+</a>
+
+<br/><br/>
+
+<!-- ══════ ROW 7: SNAKE ANIMATION ══════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake.svg"/>
+  <img alt="🐍 Snake eating my commits" src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg" width="92%"/>
+</picture>
+
+<br/><br/>
+
+<!-- ══════ STAT ACHIEVEMENT BADGES ══════ -->
 <img src="https://img.shields.io/badge/⚡_Streak-Consistency_is_🔑-f97316?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🔒_Private_Commits-Always_Counted-a78bfa?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🚀_Open_Source-Always_Shipping-34d399?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📈_Growth-1%25_Better_Every_Day-60a5fa?style=for-the-badge&labelColor=0d1117"/>
 
 <br/><br/>
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake.svg"/>
-  <img alt="🐍 Snake eating my commits" src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-</picture>
+<!-- ══════ GITHUB METRICS CARD ══════ -->
+<img src="https://img.shields.io/badge/📊_GitHub_Metrics-Live_&_Updated_Daily-e879f9?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
 
 </div>
 
