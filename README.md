@@ -97,66 +97,21 @@ const channu: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=800&color=A78BFA&center=true&vCenter=true&width=650&height=28&lines=🔥+Live+projects+actively+building+%26+shipping+every+day" alt="subtitle"/>
+<a href="https://github.com/Channu0012/FlowMind-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&border_color=f97316&border_radius=12&show_owner=true" alt="FlowMind-AI"/>
+</a>
+<a href="https://github.com/Channu0012/nexus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&border_color=a78bfa&border_radius=12&show_owner=true" alt="nexus"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/Channu0012/Nexa.Boss">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=radical&bg_color=0d1117&title_color=60a5fa&icon_color=818cf8&text_color=e2e8f0&border_color=60a5fa&border_radius=12&show_owner=true" alt="Nexa.Boss"/>
+</a>
+<a href="https://github.com/Channu0012/RENAME-PRO-BOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=radical&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=e2e8f0&border_color=34d399&border_radius=12&show_owner=true" alt="RENAME-PRO-BOT"/>
+</a>
 
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Channu0012/FlowMind-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&border_color=f97316&border_radius=12&show_owner=true" alt="FlowMind-AI"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/🤖_AI_Mind_Mapping-f97316?style=flat-square&labelColor=0d1117"/>
-      &nbsp;
-      <a href="https://github.com/Channu0012/FlowMind-AI">
-        <img src="https://img.shields.io/badge/View_Repo_→-f97316?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
-      </a>
-      <br/><sub><img src="https://skillicons.dev/icons?i=python,react&theme=dark" height="18"/></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Channu0012/nexus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&border_color=a78bfa&border_radius=12&show_owner=true" alt="nexus"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/⚡_Connectivity_Hub-a78bfa?style=flat-square&labelColor=0d1117"/>
-      &nbsp;
-      <a href="https://github.com/Channu0012/nexus">
-        <img src="https://img.shields.io/badge/View_Repo_→-a78bfa?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
-      </a>
-      <br/><sub><img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" height="18"/></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Channu0012/Nexa.Boss">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=radical&bg_color=0d1117&title_color=60a5fa&icon_color=818cf8&text_color=e2e8f0&border_color=60a5fa&border_radius=12&show_owner=true" alt="Nexa.Boss"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/👑_SaaS_Dashboard-60a5fa?style=flat-square&labelColor=0d1117"/>
-      &nbsp;
-      <a href="https://github.com/Channu0012/Nexa.Boss">
-        <img src="https://img.shields.io/badge/View_Repo_→-60a5fa?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
-      </a>
-      <br/><sub><img src="https://skillicons.dev/icons?i=nextjs,firebase&theme=dark" height="18"/></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=radical&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=e2e8f0&border_color=34d399&border_radius=12&show_owner=true" alt="RENAME-PRO-BOT"/>
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/🤖_Automation_Bot-34d399?style=flat-square&labelColor=0d1117"/>
-      &nbsp;
-      <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
-        <img src="https://img.shields.io/badge/View_Repo_→-34d399?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e"/>
-      </a>
-      <br/><sub><img src="https://skillicons.dev/icons?i=python,docker&theme=dark" height="18"/></sub>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
