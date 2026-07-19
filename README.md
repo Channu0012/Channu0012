@@ -97,19 +97,32 @@ const channu: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/Channu0012/FlowMind-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&border_color=f97316&border_radius=12&show_owner=true" alt="FlowMind-AI"/>
-</a>
-<a href="https://github.com/Channu0012/nexus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&border_color=a78bfa&border_radius=12&show_owner=true" alt="nexus"/>
-</a>
-
-<a href="https://github.com/Channu0012/Nexa.Boss">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=radical&bg_color=0d1117&title_color=60a5fa&icon_color=818cf8&text_color=e2e8f0&border_color=60a5fa&border_radius=12&show_owner=true" alt="Nexa.Boss"/>
-</a>
-<a href="https://github.com/Channu0012/RENAME-PRO-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=radical&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=e2e8f0&border_color=34d399&border_radius=12&show_owner=true" alt="RENAME-PRO-BOT"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Channu0012/FlowMind-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=FlowMind-AI&theme=radical&bg_color=0d1117&title_color=f97316&icon_color=fb923c&text_color=e2e8f0&border_color=f97316&border_radius=12&show_owner=true" alt="FlowMind-AI"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Channu0012/nexus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=nexus&theme=radical&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=e2e8f0&border_color=a78bfa&border_radius=12&show_owner=true" alt="nexus"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Channu0012/Nexa.Boss">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=Nexa.Boss&theme=radical&bg_color=0d1117&title_color=60a5fa&icon_color=818cf8&text_color=e2e8f0&border_color=60a5fa&border_radius=12&show_owner=true" alt="Nexa.Boss"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Channu0012/RENAME-PRO-BOT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Channu0012&repo=RENAME-PRO-BOT&theme=radical&bg_color=0d1117&title_color=34d399&icon_color=10b981&text_color=e2e8f0&border_color=34d399&border_radius=12&show_owner=true" alt="RENAME-PRO-BOT"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
