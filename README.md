@@ -224,23 +224,23 @@ const channu: Developer = {
 
 <!-- ══════ PROFILE SUMMARY (full width) ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Channu0012&theme=radical" alt="Profile Summary" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Summary" width="95%"/>
 </a>
 
 <br/><br/>
 
 <!-- ══════ MINI CARDS ROW ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Channu0012&theme=radical" alt="Repos per Language" height="175"/>
+  <img src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" height="175"/>
 </a>&nbsp;
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Channu0012&theme=radical" alt="Most Commit Language" height="175"/>
+  <img src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" height="175"/>
 </a>&nbsp;
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Channu0012&theme=radical" alt="Stats" height="175"/>
+  <img src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/profile-summary-card-output/radical/3-stats.svg" alt="Stats" height="175"/>
 </a>&nbsp;
 <a href="https://github.com/Channu0012">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Channu0012&theme=radical&utcOffset=5.5" alt="Productive Time" height="175"/>
+  <img src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" height="175"/>
 </a>
 
 <br/><br/>
