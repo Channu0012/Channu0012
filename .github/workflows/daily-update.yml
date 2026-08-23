@@ -1,0 +1,65 @@
+name: Daily Profile Update & Asset Generation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at 00:00 UTC
+  workflow_dispatch:        # Allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '.github/LAST_UPDATED'
+
+permissions:
+  contents: write
+
+jobs:
+  update-and-generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update Daily Timestamp Commit (for Contribution Graph)
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          date -u +"Last profile auto-update: %Y-%m-%dT%H:%M:%SZ" > .github/LAST_UPDATED
+          git config user.name "Channu Patil"
+          git config user.email "channu0012@users.noreply.github.com"
+          git add .github/LAST_UPDATED
+          git diff --staged --quiet || (git commit -m "chore(profile): daily activity update [skip ci]" && git push origin main)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Contribution Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          AUTO_PUSH: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy Summary Cards to dist
+        run: |
+          mkdir -p dist/profile-summary-card-output
+          cp -r profile-summary-card-output/* dist/profile-summary-card-output/
+
+      - name: Deploy Assets to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
