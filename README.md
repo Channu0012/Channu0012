@@ -234,10 +234,11 @@ const channu: Developer = {
 
 <br/><br/>
 
-<!-- ══════ RELIABLE CONTRIBUTION HEATMAP ══════ -->
+<!-- ══════ STREAK & CONSISTENCY METRICS ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://ghchart.rshah.org/7c3aed/Channu0012" alt="Channu Patil's Github Contribution Chart" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12" alt="GitHub Streak Stats" width="88%"/>
 </a>
+
 
 
 <br/><br/>
