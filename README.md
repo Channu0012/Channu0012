@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=30&lines=🚀+Building+AI-Powered+SaaS+%7C+LLMs+%7C+Multi-Agent+Systems;💡+From+Idea+→+MVP+→+Shipped+Product;🔥+Code+every+day.+Ship+every+week." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=30&lines=Building+AI-Powered+SaaS+%7C+LLMs+%7C+Multi-Agent+Systems;From+Idea+%E2%86%92+MVP+%E2%86%92+Shipped+Product;Code+every+day.+Ship+every+week." alt="Typing SVG"/>
 
 </div>
 
