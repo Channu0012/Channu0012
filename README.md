@@ -223,39 +223,42 @@ const channu: Developer = {
 
 <div align="center">
 
+<p><i>📈 Daily contribution activity, work graph & consistency metrics</i></p>
+
 <br/>
 
-<!-- ══════ STREAK CARD ══════ -->
+<!-- ══════ DAILY WORK CONTRIBUTION GRAPH ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://streak-stats.demolab.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12&card_width=860&card_height=200&stroke=0d1117" alt="GitHub Streak" width="88%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=3b0764&hide_border=true&radius=12&custom_title=🔥+Daily+Work+Contribution+Graph" alt="Daily Work Contribution Graph" width="95%"/>
 </a>
 
 <br/><br/>
 
-<!-- ══════ CONTRIBUTION GRAPH ══════ -->
+<!-- ══════ STREAK & CONSISTENCY CARD ══════ -->
 <a href="https://github.com/Channu0012">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Channu0012&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=3b0764&hide_border=true&radius=12&custom_title=🔥+Channu+Patil's+Contribution+Heatmap" alt="Contribution Graph" width="92%"/>
+  <img src="https://streak-stats.demolab.com?user=Channu0012&theme=radical&hide_border=true&background=0d1117&ring=f97316&fire=e879f9&currStreakNum=ffffff&sideNums=a78bfa&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&border_radius=12&card_width=860&card_height=200&stroke=0d1117" alt="GitHub Streak Stats" width="88%"/>
 </a>
 
 <br/><br/>
 
-<!-- ══════ SNAKE ANIMATION ══════ -->
+<!-- ══════ DAILY SNAKE COMMIT ANIMATION ══════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake.svg"/>
-  <img alt="🐍 Snake eating my commits" src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img alt="🐍 Daily Snake Commit Eating Animation" src="https://raw.githubusercontent.com/Channu0012/Channu0012/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </picture>
 
 <br/><br/>
 
-<!-- ══════ BADGES ══════ -->
-<img src="https://img.shields.io/badge/⚡_Streak-Consistency_is_🔑-f97316?style=for-the-badge&labelColor=0d1117"/>
+<!-- ══════ ANALYTICS METRIC BADGES ══════ -->
+<img src="https://img.shields.io/badge/⚡_Daily_Updates-Auto_Synced_00:00_UTC-f97316?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🔒_Private_Commits-Always_Counted-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🔒_Private_Commits-Counted_Daily-a78bfa?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🚀_Open_Source-Always_Shipping-34d399?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🚀_Open_Source-Continuous_Shipping-34d399?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
+
 
 ---
 
