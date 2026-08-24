@@ -18,7 +18,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN_TO_WORK-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
 &nbsp;
-<img src="https://img.shields.io/badge/UPDATED-23_AUG_2026-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Updated Date"/>
+<img src="https://img.shields.io/badge/UPDATED-24_AUG_2026-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Updated Date"/>
+
 
 <br/><br/>
 
